@@ -58,6 +58,9 @@
     position: relative;
     margin-bottom: 30px;
 }
+.home__main__section__article--image {
+    width: 100%;
+}
 
 .home__main__section__article--sticker {
     position: absolute;
